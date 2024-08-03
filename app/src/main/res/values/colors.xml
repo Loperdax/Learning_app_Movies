@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="shadow_green">#9EC8B9</color>
+    <color name="viridian_green">#5C8374</color>
+    <color name="te_papa_green">#1B4242</color>
+    <color name="tiber">#092635</color>
+    <color name="red" >#FF0000</color>
+    <color name="green">#00FF00</color>
+    <color name="blue">#0000FF</color>
+    <color name="purple">#800080</color>
+    <color name="yellow">#FFFF00</color>
+    <color name="orange">#FFA500</color>
+    <color name="pink">#FFC0CB</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="bottom_nav"></color>
+</resources>
